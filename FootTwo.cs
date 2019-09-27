@@ -8,7 +8,7 @@ using System;
 
 namespace MyProgram {
 
-  class FootTest : Foot {
+  class FootTwo : Foot {
 
     // Overrides abstract method.
     public override double FeetToMeters(double inFeet) {
